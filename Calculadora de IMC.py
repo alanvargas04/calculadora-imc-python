@@ -14,7 +14,7 @@ janela.title("Calculadora de IMC")
 
 # Define um estilo
 style = ttk.Style()
-style.configure("TButton", font=("Arial", 20), background="blue")
+style.configure("TButton", font=("Arial", 20), background="yellow")
 style.configure("TLabel", font=("Arial", 20), background="yellow")
 style.configure("TEntry", font=("Arial", 20))
 
